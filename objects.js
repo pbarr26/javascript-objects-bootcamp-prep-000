@@ -1,5 +1,5 @@
 var playlist = {
-  Santana : 'smooth'
+  artistName: 'songTitle'
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
